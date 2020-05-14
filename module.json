@@ -1,0 +1,12 @@
+{
+  "id": "nanakochanifier",
+  "name": "Nanakochan-ifier",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-05-21",
+  "updated": "2019-05-21",
+  "description": "Makes all NPCs use the Nanako race; also randomly distributes face type, eye color, hair style and hair colour so you can tell NPCs from each other.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
